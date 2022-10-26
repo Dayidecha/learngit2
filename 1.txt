@@ -6,3 +6,4 @@ new branch is created &123.
 is simpled.
 now is dev1.
 now id dev3.
+now is master.
